@@ -1,0 +1,115 @@
+﻿number,College_Name,Branch,CET_Cutoff ,Category
+1,College Of Engineering Pune,Civil,98.17,Open
+2,College Of Engineering Pune,Mechanical,98.72,Open
+3,College Of Engineering Pune,Electrical,99.19,Open
+4,College Of Engineering Pune,ENTC,99.5,Open
+5,College Of Engineering Pune,CS,99.77,Open
+6,College Of Engineering Pune,Civil,95.92,EWS
+7,College Of Engineering Pune,Mechanical,98.6,EWS
+8,College Of Engineering Pune,Electrical,99.05,EWS
+9,College Of Engineering Pune,ENTC,99.4,EWS
+10,College Of Engineering Pune,CS,99.7,EWS
+11,College Of Engineering Pune,Civil,96.48,TFWS
+12,College Of Engineering Pune,Mechanical,97.98,TFWS
+13,College Of Engineering Pune,Electrical,98.3,TFWS
+14,College Of Engineering Pune,ENTC,98,TFWS
+15,College Of Engineering Pune,CS,98,TFWS
+16,Pimpari Chinchwad College Of Engineering<Nigdi,Civil,88.96,Open
+17,Pimpari Chinchwad College Of Engineering<Nigdi,Mechanical,89.95,Open
+18,Pimpari Chinchwad College Of Engineering<Nigdi,IT,98.05,Open
+19,Pimpari Chinchwad College Of Engineering<Nigdi,ENTC,95.88,Open
+20,Pimpari Chinchwad College Of Engineering<Nigdi,CS,98.36,Open
+21,Pimpari Chinchwad College Of Engineering<Nigdi,Civil,86.58,EWS
+22,Pimpari Chinchwad College Of Engineering<Nigdi,Mechanical,88.8,EWS
+23,Pimpari Chinchwad College Of Engineering<Nigdi,IT,98.04,EWS
+24,Pimpari Chinchwad College Of Engineering<Nigdi,ENTC,95.46,EWS
+25,Pimpari Chinchwad College Of Engineering<Nigdi,CS,98.34,EWS
+26,Pimpari Chinchwad College Of Engineering<Nigdi,Civil,90.8,TFWS
+27,Pimpari Chinchwad College Of Engineering<Nigdi,Mechanical,91.2,TFWS
+28,Pimpari Chinchwad College Of Engineering<Nigdi,IT,98.4,TFWS
+29,Pimpari Chinchwad College Of Engineering<Nigdi,ENTC,97.17,TFWS
+30,Pimpari Chinchwad College Of Engineering<Nigdi,CS,98.9,TFWS
+31,Pune Institute Of Computer Technology,IT,99.36,Open
+32,Pune Institute Of Computer Technology,ENTC,98.71,Open
+33,Pune Institute Of Computer Technology,CS,99.52,Open
+34,Pune Institute Of Computer Technology,IT,99.02,EWS
+35,Pune Institute Of Computer Technology,ENTC,98.5,EWS
+36,Pune Institute Of Computer Technology,CS,99.3,EWS
+37,Pune Institute Of Computer Technology,IT,99.38,TFWS
+38,Pune Institute Of Computer Technology,ENTC,99.01,TFWS
+39,Pune Institute Of Computer Technology,CS,99.53,TFWS
+40,"VIT (Vishwakarma),Kondwa,Pune",Civil,92,Open
+41,"VIT (Vishwakarma),Kondwa,Pune",Mechanical,93.32,Open
+42,"VIT (Vishwakarma),Kondwa,Pune",IT,98.53,Open
+43,"VIT (Vishwakarma),Kondwa,Pune",ENTC,96.87,Open
+44,"VIT (Vishwakarma),Kondwa,Pune",CS,98.82,Open
+45,"VIT (Vishwakarma),Kondwa,Pune",Civil,91.8,EWS
+46,"VIT (Vishwakarma),Kondwa,Pune",Mechanical,90.69,EWS
+47,"VIT (Vishwakarma),Kondwa,Pune",IT,98.25,EWS
+48,"VIT (Vishwakarma),Kondwa,Pune",ENTC,96.49,EWS
+49,"VIT (Vishwakarma),Kondwa,Pune",CS,98.61,EWS
+50,"VIT (Vishwakarma),Kondwa,Pune",Civil,92.9,TFWS
+51,"VIT (Vishwakarma),Kondwa,Pune",Mechanical,94.47,TFWS
+52,"VIT (Vishwakarma),Kondwa,Pune",IT,98.78,TFWS
+53,"VIT (Vishwakarma),Kondwa,Pune",ENTC,97.64,TFWS
+54,"VIT (Vishwakarma),Kondwa,Pune",CS,99,TFWS
+55,Pimpari Chinchwad College Of Engineering & Research,Civil,74.08,Open
+56,Pimpari Chinchwad College Of Engineering & Research,Mechanical,87.23,Open
+57,Pimpari Chinchwad College Of Engineering & Research,IT,96.92,Open
+58,Pimpari Chinchwad College Of Engineering & Research,ENTC,96.03,Open
+59,Pimpari Chinchwad College Of Engineering & Research,CS,97.18,Open
+60,Pimpari Chinchwad College Of Engineering & Research,Civil,58.55,EWS
+61,Pimpari Chinchwad College Of Engineering & Research,Mechanical,84.52,EWS
+62,Pimpari Chinchwad College Of Engineering & Research,IT,96.28,EWS
+63,Pimpari Chinchwad College Of Engineering & Research,ENTC,95.15,EWS
+64,Pimpari Chinchwad College Of Engineering & Research,CS,96.67,EWS
+65,Pimpari Chinchwad College Of Engineering & Research,Civil,85.18,TFWS
+66,Pimpari Chinchwad College Of Engineering & Research,Mechanical,91.75,TFWS
+67,Pimpari Chinchwad College Of Engineering & Research,IT,97.33,TFWS
+68,Pimpari Chinchwad College Of Engineering & Research,ENTC,96.55,TFWS
+69,Pimpari Chinchwad College Of Engineering & Research,CS,97.69,TFWS
+70,"VIIT,Pune",Civil,83.4,Open
+71,"VIIT,Pune",Mechanical,84.86,Open
+72,"VIIT,Pune",IT,97.18,Open
+73,"VIIT,Pune",ENTC,94.47,Open
+74,"VIIT,Pune",CS,97.74,Open
+75,"VIIT,Pune",Civil,84.99,EWS
+76,"VIIT,Pune",Mechanical,87.08,EWS
+77,"VIIT,Pune",IT,97.12,EWS
+78,"VIIT,Pune",ENTC,95.33,EWS
+79,"VIIT,Pune",CS,97.6,EWS
+80,"VIIT,Pune",Civil,85.73,TFWS
+81,"VIIT,Pune",Mechanical,86,TFWS
+82,"VIIT,Pune",IT,98.01,TFWS
+83,"VIIT,Pune",ENTC,96.45,TFWS
+84,"VIIT,Pune",CS,98.5,TFWS
+85,"JSPM,Pune",Civil,25.83,Open
+86,"JSPM,Pune",Mechanical,17.83,Open
+87,"JSPM,Pune",IT,85.33,Open
+88,"JSPM,Pune",ENTC,78.35,Open
+89,"JSPM,Pune",CS,92.23,Open
+90,"JSPM,Pune",Civil,2.33,EWS
+91,"JSPM,Pune",Mechanical,3.19,EWS
+92,"JSPM,Pune",IT,69,EWS
+93,"JSPM,Pune",ENTC,76.56,EWS
+94,"JSPM,Pune",CS,90.52,EWS
+95,"JSPM,Pune",Civil,26.89,TFWS
+96,"JSPM,Pune",Mechanical,20,TFWS
+97,"JSPM,Pune",IT,86.1,TFWS
+98,"JSPM,Pune",ENTC,79.9,TFWS
+99,"JSPM,Pune",CS,93.7,TFWS
+100,"AISSMSCOE,Pune",Civil,81.03,Open
+101,"AISSMSCOE,Pune",Mechanical,41.19,Open
+102,"AISSMSCOE,Pune",IT,95.1,Open
+102,"AISSMSCOE,Pune",ENTC,91.9,Open
+103,"AISSMSCOE,Pune",CS,96.12,Open
+104,"AISSMSCOE,Pune",Civil,39.42,EWS
+105,"AISSMSCOE,Pune",Mechanical,62.38,EWS
+106,"AISSMSCOE,Pune",IT,94.8,EWS
+107,"AISSMSCOE,Pune",ENTC,91.05,EWS
+109,"AISSMSCOE,Pune",CS,95.93,EWS
+110,"AISSMSCOE,Pune",Civil,69.71,TFWS
+111,"AISSMSCOE,Pune",Mechanical,76.49,TFWS
+112,"AISSMSCOE,Pune",IT,95.7,TFWS
+113,"AISSMSCOE,Pune",ENTC,93.1,TFWS
+114,"AISSMSCOE,Pune",CS,96.93,TFWS
